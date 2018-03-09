@@ -8,7 +8,7 @@ I've always wanted to create Python web applications. The idea of creating a sma
 Run setup.sh on your terminal and install the libraries in requirement.txt. 
 
 # Running the app :
-#Use the following command to run the app:
+Use the following command to run the app:
 * python app.py
 
 # Technologies used: 

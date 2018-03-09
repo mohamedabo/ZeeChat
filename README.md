@@ -9,7 +9,8 @@ Run setup.sh on your terminal and install the libraries in requirement.txt.
 
 # Running the app :
 Use the following command to run the app:
- python app.py
+python app.py
+
 # Technologies used: 
 * Python 
 * JavaScript

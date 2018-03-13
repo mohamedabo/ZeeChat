@@ -1,5 +1,5 @@
 # ZeeChat
-A scalable networking web application built with Flask to make anyone cconnect and share updates with each other.
+A scalable networking web application built with Flask to make anyone connect and share updates with each other.
 
 # Motivation: 
 I've always wanted to create Python web applications. The idea of creating a small social network was appealing to me. 
